@@ -75,7 +75,7 @@ html{
 		if(_width>640){
 			html.style.width = 640+'px';
 		};
-		html.style.fontSize = html.clientWidth / 6.4;
+		html.style.fontSize = html.clientWidth / 6.4 + 'px';
 	})();
 
 	到此，基本上就算rem布局大工工程了，现在你可以测试的页面，可以看见会有一个比较好的缩放效果。
