@@ -1,0 +1,23 @@
+{
+  "name": "temp0815",
+  "version": "1.0.0",
+  "description": "图片压缩测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "压缩"
+  ],
+  "author": "Jianfeng",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-imagemin": "^1.0.1"
+  },
+  "imagePrefix":{
+    "prefix":"jpg,gif,png"
+  }
+}
