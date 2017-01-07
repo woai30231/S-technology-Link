@@ -15,3 +15,5 @@ _ [微信接口开发学习地址，含代码实例](http://www.360doc.com/conte
 _ [微信接口代码实例](http://203.195.235.76/jssdk/)
 
 _ [makefile学习地址](http://blog.csdn.net/haoel/article/details/2886)
+
+_ [记录修改css的那个属性会引起浏览器的layout、paint等](https://csstriggers.com/)
