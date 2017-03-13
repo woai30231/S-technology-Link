@@ -18,6 +18,6 @@ _ [makefile学习地址](http://blog.csdn.net/haoel/article/details/2886)
 
 _ [记录修改css的那个属性会引起浏览器的layout、paint等](https://csstriggers.com/)
 
-— [可查询css兼容性的网站](caniuse.com)
+— [可查询css兼容性的网站](http://www.caniuse.com)
 
-— [可查看css属性兼容性写法的网站](css3chart.com)
+— [可查看css属性兼容性写法的网站](http://www.css3chart.com)
