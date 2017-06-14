@@ -18,16 +18,16 @@ _ [makefile学习地址](http://blog.csdn.net/haoel/article/details/2886)
 
 _ [记录修改css的那个属性会引起浏览器的layout、paint等](https://csstriggers.com/)
 
-— [可查询css兼容性的网站](http://www.caniuse.com)
+_ [可查询css兼容性的网站](http://www.caniuse.com)
 
-— [可查看css属性兼容性写法的网站](http://www.css3chart.com)
+_ [可查看css属性兼容性写法的网站](http://www.css3chart.com)
 
-— [增加emmet语法html自动补全全命令](https://docs.emmet.io/cheat-sheet/)
+_ [增加emmet语法html自动补全全命令](https://docs.emmet.io/cheat-sheet/)
 
-— [字体文件在线生成器](https://transfonter.org/)
+_ [字体文件在线生成器](https://transfonter.org/)
 
-— [google镜像地址目录](http://coderschool.cn/1853.html)
+_ [google镜像地址目录](http://coderschool.cn/1853.html)
 
-— [一个在线图片data:uri生成器](http://jpillora.com/base64-encoder/)
+_ [一个在线图片data:uri生成器](http://jpillora.com/base64-encoder/)
 
-— [一个下载字体图标的地址](https://www.iconfont.cn/)
+_ [一个下载字体图标的地址](http://www.iconfont.cn/)
