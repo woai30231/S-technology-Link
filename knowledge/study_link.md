@@ -29,3 +29,5 @@ _ [记录修改css的那个属性会引起浏览器的layout、paint等](https:/
 — [google镜像地址目录](http://coderschool.cn/1853.html)
 
 — [一个在线图片data:uri生成器](http://jpillora.com/base64-encoder/)
+
+— [一个下载字体图标的地址](https://www.iconfont.cn/)
