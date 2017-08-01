@@ -31,3 +31,5 @@ _ [google镜像地址目录](http://coderschool.cn/1853.html)
 _ [一个在线图片data:uri生成器](http://jpillora.com/base64-encoder/)
 
 _ [一个下载字体图标的地址](http://www.iconfont.cn/)
+
+_ [vue本地开发如何设置api接口从而实现跨域请求](https://vuejs-templates.github.io/webpack/proxy.html)
