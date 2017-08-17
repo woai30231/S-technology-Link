@@ -35,3 +35,5 @@ _ [一个下载字体图标的地址](http://www.iconfont.cn/)
 _ [vue本地开发如何设置api接口从而实现跨域请求](https://vuejs-templates.github.io/webpack/proxy.html)
 
 _ [一个使用json-server mock后台数据的例子](https://github.com/Iamlars/diaries/tree/master/demos/mock)
+
+_ [提升vue开发体验的所需要知道的东西的介绍](https://pablohpsilva.github.io/vuejs-component-style-guide/#/)
