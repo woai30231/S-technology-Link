@@ -41,3 +41,5 @@ _ [提升vue开发体验的所需要知道的东西的介绍](https://pablohpsil
 _ [summer 桑莫、夏天 个人blog ，vue、react及seo技术](https://cythilya.github.io/2014/01/22/seo-duplicate-content/)
 
 _ [一个js与flash交互的英文介绍网页地址](http://www.permadi.com/tutorial/flashjscommand/)
+
+_ [html中嵌入视频播放的教程地址](https://www.free-video-hosting.net/embed-flash.php)
