@@ -43,3 +43,5 @@ _ [summer 桑莫、夏天 个人blog ，vue、react及seo技术](https://cythily
 _ [一个js与flash交互的英文介绍网页地址](http://www.permadi.com/tutorial/flashjscommand/)
 
 _ [html中嵌入视频播放的教程地址](https://www.free-video-hosting.net/embed-flash.php)
+
+_ [ecmascript 英文编码文档](http://www.ecma-international.org/ecma-262/6.0/#sec-for-statement-runtime-semantics-labelledevaluation)
