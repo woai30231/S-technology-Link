@@ -49,3 +49,5 @@ _ [ecmascript 英文编码文档](http://www.ecma-international.org/ecma-262/6.0
 _ [一个google分析网页加载速度的工具地址](https://developers.google.com/speed/docs/insights/about?hl=zh-CN)
 
 _ [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
+
+_ [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
