@@ -1,8 +1,5 @@
 # 常用的国内前端学习地址链接
 
-_ [前端乱炖](www.html-js.com)
-
-_ [白色橡树博客园](http://www.cnblogs.com/PeunZhang/)
 
 _ [《angularjs权威教程》在线书籍](http://www.ituring.com.cn/tupubarticle/1385)
 
@@ -51,3 +48,5 @@ _ [一个google分析网页加载速度的工具地址](https://developers.googl
 _ [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 
 _ [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
+
+_ [移动端浏览器代理检测的代码](https://stackoverflow.com/questions/21741841/detecting-ios-android-operating-system)
