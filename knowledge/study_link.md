@@ -50,3 +50,5 @@ _ [免费的编程中文书籍索引](https://github.com/justjavac/free-programm
 _ [基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用](https://github.com/bailicangdu/vue2-elm)
 
 _ [移动端浏览器代理检测的代码](https://stackoverflow.com/questions/21741841/detecting-ios-android-operating-system)
+
+_ [十种方法避免网页回流、重绘 英文](https://www.sitepoint.com/10-ways-minimize-reflows-improve-performance/)
