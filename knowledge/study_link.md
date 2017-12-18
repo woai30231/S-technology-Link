@@ -56,3 +56,5 @@ _ [十种方法避免网页回流、重绘 英文](https://www.sitepoint.com/10-
 _ [一篇很好理解relayout/repaint的英文文档，可翻译出来加深记忆](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 
 _ [网页唤起app那些事 简书](http://www.jianshu.com/p/862885bd8ea2)
+
+_ [ios/android/微信打开app介绍](https://www.cnblogs.com/shadajin/p/5724117.html)
