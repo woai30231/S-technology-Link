@@ -60,3 +60,5 @@ _ [网页唤起app那些事 简书](http://www.jianshu.com/p/862885bd8ea2)
 _ [ios/android/微信打开app介绍](https://www.cnblogs.com/shadajin/p/5724117.html)
 
 _ [es5规范中文文档](http://yanhaijing.com/es5/#null)
+
+_ [js之变量对象中文介绍文档](http://goddyzhao.tumblr.com/post/11141710441/variable-object)
