@@ -39,8 +39,6 @@ _ [summer 桑莫、夏天 个人blog ，vue、react及seo技术](https://cythily
 
 _ [一个js与flash交互的英文介绍网页地址](http://www.permadi.com/tutorial/flashjscommand/)
 
-_ [一个关于nodejs后台的express搭建项目](https://github.com/gothinkster/node-express-realworld-example-app)
-
 _ [html中嵌入视频播放的教程地址](https://www.free-video-hosting.net/embed-flash.php)
 
 _ [ecmascript 英文编码文档](http://www.ecma-international.org/ecma-262/6.0/#sec-for-statement-runtime-semantics-labelledevaluation)
@@ -64,3 +62,5 @@ _ [ios/android/微信打开app介绍](https://www.cnblogs.com/shadajin/p/5724117
 _ [es5规范中文文档](http://yanhaijing.com/es5/#null)
 
 _ [js之变量对象中文介绍文档](http://goddyzhao.tumblr.com/post/11141710441/variable-object)
+
+_ [一个关于nodejs后台的express搭建项目](https://github.com/gothinkster/node-express-realworld-example-app)
