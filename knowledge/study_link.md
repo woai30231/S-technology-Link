@@ -64,3 +64,5 @@ _ [es5规范中文文档](http://yanhaijing.com/es5/#null)
 _ [js之变量对象中文介绍文档](http://goddyzhao.tumblr.com/post/11141710441/variable-object)
 
 _ [一个关于nodejs后台的express搭建项目](https://github.com/gothinkster/node-express-realworld-example-app)
+
+_ [nodejs操作mysql数据库](https://www.w3schools.com/nodejs/nodejs_mysql_update.asp)
