@@ -66,3 +66,5 @@ _ [js之变量对象中文介绍文档](http://goddyzhao.tumblr.com/post/1114171
 _ [一个关于nodejs后台的express搭建项目](https://github.com/gothinkster/node-express-realworld-example-app)
 
 _ [nodejs操作mysql数据库](https://www.w3schools.com/nodejs/nodejs_mysql_update.asp)
+
+_ [实现自定义video控制器的文档](https://developer.mozilla.org/en-US/docs/Web/Guide/Audio_and_video_delivery/cross_browser_video_player)
